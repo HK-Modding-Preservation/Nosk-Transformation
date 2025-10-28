@@ -1,11 +1,11 @@
 # Nosk Transformation
 
-Transform into Nosk and troll your friends!!!! Become the Mimic Spider on command, unleash roars, fling acid spits, and make dramatic leaps as you stalk Hallownest. Pop in, prank your squad, and switch back whenever you feel like it — all while keeping things low-key with a stealthy name.
+Transform into Nosk and troll your friends!!!! Become the Mimic Spider on command, unleash roars, fling acid spits, and make dramatic leaps as you stalk Hallownest. Pop in, prank your squad, and switch back whenever you feel like it â€” all while keeping things low-key with a stealthy name.
 
 ## Stealth
-- The mod’s displayed name and its options menu title are taken directly from the DLL filename (minus `.dll`).
+- The modâ€™s displayed name and its options menu title are taken directly from the DLL filename (minus `.dll`).
 - Rename the DLL to anything innocuous (e.g., `QoL_Helper.dll`) before sharing.
-- Ask friends to manually place the DLL into their Hollow Knight Mods folder — it will appear under the new name in both the mod list and the mod menu.
+- Ask friends to manually place the DLL into their Hollow Knight Mods folder â€” it will appear under the new name in both the mod list and the mod menu.
 
 ---
 
@@ -13,14 +13,14 @@ Transform into Nosk and troll your friends!!!! Become the Mimic Spider on comman
 - Transform into Nosk and control it directly.
 - Manual attacks and actions:
   - Roar
-  - Spit 1–5 (acid)
+  - Spit (acid)
   - Jump Attack
   - Strike (short charge)
   - Roof moves: RS Jump, Roof Drop, Roof Jump?
-- In-game keybind editor with “Press any key…” prompts.
-- “Fix Mod” button if something gets stuck.
+- In-game keybind editor with â€œPress any keyâ€¦â€ prompts.
+- â€œFix Modâ€ button if something gets stuck.
 - Settings save between sessions.
-- Dynamic naming: the mod’s name and menu title follow the DLL filename.
+- Dynamic naming: the modâ€™s name and menu title follow the DLL filename.
 
 ---
 
@@ -44,7 +44,7 @@ Transform into Nosk and troll your friends!!!! Become the Mimic Spider on comman
 - Move: A (left), D (right)
 - Strike: Mouse0
 - Roar: 0
-- Spit 1–5: 1, 2, 3, 4, 5
+- Spit 1â€“5: 1, 2, 3, 4, 5
 - Jump Attack: Space
 - Roof Mode: [ (on), ] (off)
 
@@ -53,7 +53,7 @@ All controls can be rebound in the in-game menu.
 ---
 
 ## Keybind capture
-- Click a binding in the menu to make it show “Press any key…”.
+- Click a binding in the menu to make it show â€œPress any keyâ€¦â€.
 - Press any key or mouse button to set it.
 - The label updates immediately to the new key.
 
@@ -69,24 +69,24 @@ All controls can be rebound in the in-game menu.
 ## Multiplayer (HKMP) note
 - With the right addon setup, others can see your Nosk and react to its actions.
 - Everyone needs the same addon installed.
-- This repository is focused on local play; multiplayer messaging isn’t included.
+- This repository is focused on local play; multiplayer messaging isnâ€™t included.
 
 ---
 
 ## Known limitations
-- If you’ve used the mod before, saved settings may override new defaults — rebind once to apply them.
-- If something feels off, use the “Fix Mod” button, then toggle transform off/on.
+- If youâ€™ve used the mod before, saved settings may override new defaults â€” rebind once to apply them.
+- If something feels off, use the â€œFix Modâ€ button, then toggle transform off/on.
 
 ---
 
 ## Troubleshooting
-- Something stuck? Use “Fix Mod” and toggle transform again.
-- Keybind label didn’t change? Back out and reopen the keybinds menu after rebinding.
+- Something stuck? Use â€œFix Modâ€ and toggle transform again.
+- Keybind label didnâ€™t change? Back out and reopen the keybinds menu after rebinding.
 
 ---
 
 ## Building
-- The mod’s displayed name and menu title are taken from the DLL’s filename at runtime.
+- The modâ€™s displayed name and menu title are taken from the DLLâ€™s filename at runtime.
 - Rename the file after building to change how it appears in-game (no rebuild needed).
 
 ---
@@ -100,7 +100,7 @@ All controls can be rebound in the in-game menu.
 ## Changelog
 - 1.0.0
   - DLL-name-driven mod/menu title
-  - “Press any key…” keybind capture
+  - â€œPress any keyâ€¦â€ keybind capture
   - Space as default Jump Attack
   - Nosk control set and Fix button
 
@@ -112,4 +112,4 @@ All controls can be rebound in the in-game menu.
 
 ## Attribution 
 - Not required, but appreciated. If you feature this mod in videos/streams/posts, a link back to this repo helps others find it.
-- Please don’t claim the original project as your own.
+- Please donâ€™t claim the original project as your own.
