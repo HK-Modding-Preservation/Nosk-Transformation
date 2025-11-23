@@ -7,6 +7,12 @@ Transform into Nosk and troll your friends!!!! Become the Mimic Spider on comman
 - Rename the DLL to anything innocuous (e.g., `QoL_Helper.dll`) before sharing.
 - Ask friends to manually place the DLL into their Hollow Knight Mods folder — it will appear under the new name in both the mod list and the mod menu.
 
+
+
+https://github.com/user-attachments/assets/84e51780-5002-4aab-a885-2da3b47d3778
+
+
+
 ---
 
 ## Features
@@ -103,12 +109,26 @@ All controls can be rebound in the in-game menu.
   - “Press any key…” keybind capture
   - Space as default Jump Attack
   - Nosk control set and Fix button
+  - Fixes/Fine tuning to remote system
 
 ---
 
 ## Credits
 - Hollow Knight by Team Cherry
+- DebugMod
 - HK Modding API, Satchel.BetterMenus, and the modding community
+
+## Play Testers
+
+A huge thanks to the early explorers who helped poke, prod, break, and perfect the Nosk experience:
+
+* **JoSeBach (@josebach)** — Tested the mod extensively with logs and recordings to debug most of the annoying errors.
+* **Traksu (@traksu)** — Helped me find a lot of early bugs, helped test with recordings.
+* **The Lakitu King (@lakitu1818)** — Helped test early bugs, hoped to showcase the mod/use to troll friends in a video.
+* **Grimm (@gaster_os)** — Helped testing some really early bugs, alongside others.
+* **Viraj (@viraj_khiste_00)** — Helped testing some really early bugs, alongside others.
+
+If your name isn't mentioned above and you can prove your contribution to the project, please don't hesitate to DM me about it.
 
 ## Attribution 
 - Not required, but appreciated. If you feature this mod in videos/streams/posts, a link back to this repo helps others find it.
