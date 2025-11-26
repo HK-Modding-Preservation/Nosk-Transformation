@@ -37,7 +37,7 @@ namespace Nosk_Transformation.HKMP
         }
 
         protected override string Name => "Nosk_Transformation";
-        protected override string Version => "1.0.0";
+        protected override string Version => "1.0.0.0";
         public override bool NeedsNetwork => true;
     }
 }
