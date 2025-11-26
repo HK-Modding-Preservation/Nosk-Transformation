@@ -239,7 +239,7 @@ namespace Nosk_Transformation
 
         public override int LoadPriority() => 1;
         public Nosk_Transformation() : base(ModName) { }
-        public override string GetVersion() => "1.0.0";
+        public override string GetVersion() => "1.0.0.0";
         public bool ToggleButtonInsideMenu => false;
 
         public override List<(string, string)> GetPreloadNames()
